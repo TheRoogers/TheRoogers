@@ -1,9 +1,9 @@
  # Hi, I'm Roger! :wave:
 
 ### About me
-Graduating in information system💻
+Graduated in information systems and currently studying postgraduate studies in data science and big data💻
 
-Trying to improve my knowledge in development in Dart / Flutter :dart:
+Trying to improve my knowledge in machine learning and data analysis
 
 <div align="center">
   <a href="https://github.com/theroogers">
