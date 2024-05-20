@@ -1,7 +1,7 @@
  # Hi, I'm Roger! :wave:
 
 ### About me
-Graduated in information systems and currently studying postgraduate studies in data science and big data💻
+Graduated in Computer Science with a postgraduate degree in Data Science and Big Data.💻
 
 Trying to improve my knowledge in machine learning and data analysis
 
